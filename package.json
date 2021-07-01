@@ -34,7 +34,7 @@
     "react-timer-mixin": "^0.13.3"
   },
   "peerDependencies":{
-     "@react-native-community/viewpager": ">=4.1.6",
+     "@react-native-community/viewpager": ">=4.1.6"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
